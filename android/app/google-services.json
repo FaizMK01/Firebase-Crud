@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1000817192410",
+    "firebase_url": "https://thursdayfirebase-241e6-default-rtdb.firebaseio.com",
+    "project_id": "thursdayfirebase-241e6",
+    "storage_bucket": "thursdayfirebase-241e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000817192410:android:06f9869f16017a542e24e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZryYkMUmpzbEEZKMHjlCqdfqLdFRvAIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
